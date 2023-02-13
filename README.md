@@ -13,6 +13,6 @@ User may perform the following logics:
 - The total amount with a tip is automatically calculated.
 - The base amount, tip percentage, and the number of people can be changed as desired. 
 
-<img width="1396" alt="Android_Studio_Demo" src="https://github.com/eunjujong/Android_Tip_Calculator_App_Demo/blob/main/Android_Studio_Demo.png">
+<img width="1396" alt="Android_Studio_Demo" src="https://github.com/eunjujong/Android_Tip_Calculator_App_Demo/main/Android_Studio_Demo.png">
 
 Android Tutorial Reference: https://www.youtube.com/watch?v=FjrKMcnKahY&ab_channel=freeCodeCamp.org
