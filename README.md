@@ -2,7 +2,7 @@
 
 ### Using Android Studio to create a Tip Calculator app
 
-The Tip Calculator app was created using XML userinterface and Kotlin programming kanguage. The intrerface layout was created using ConstraintLayout, and the calculation of the tip amount is done using three event listeners.
+The Tip Calculator app was created using XML userinterface and Kotlin programming language. The intrerface layout was created using ConstraintLayout, and the calculation of the tip amount is done using three event listeners.
 Jetpack Compose was used to update the UI.
 
 User may perform the following logics: 
